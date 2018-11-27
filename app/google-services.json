@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "682076922536",
+    "firebase_url": "https://fine-pride-222717.firebaseio.com",
+    "project_id": "fine-pride-222717",
+    "storage_bucket": "fine-pride-222717.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682076922536:android:fec6f59cccfa4644",
+        "android_client_info": {
+          "package_name": "com.example.shifthackz.maptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682076922536-laccgji8tq3ut1i60fd11p3m8pbisps1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shifthackz.maptest",
+            "certificate_hash": "82e7f60e07461bc105908250e897f13a84a357a8"
+          }
+        },
+        {
+          "client_id": "682076922536-j8qtchgjppg02dac07nreeb8n5suqk0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TIsI2Ry2rDdbeZm-VFRHiiRinjE5imY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682076922536-j8qtchgjppg02dac07nreeb8n5suqk0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
