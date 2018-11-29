@@ -12,6 +12,5 @@ data class MapTestEntity(@PrimaryKey(autoGenerate = true)
                          var description: String,
                          var phone: String,
                          var latitude: Double,
-                         var longitude: Double,
-                         var icon: BitmapDescriptor
+                         var longitude: Double
 )

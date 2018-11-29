@@ -18,7 +18,7 @@ interface MapTestDAO {
     fun getAll(): LiveData<List<MapTestEntity>>
     //добавление всего и вся, заменяет при конфликте
     @Insert(onConflict = REPLACE)
-    fun addAll(all: List<MapTestEntity>)
+    fun addAll(all: ArrayList<MapTestEntity>)
     //метод апдейтит все
     @Update(onConflict = REPLACE)
     fun updateAll(all: List<MapTestEntity>)
